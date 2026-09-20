@@ -52,3 +52,7 @@ Data modeling and DAX (SWITCH, CALCULATE, FILTER, time intelligence)
 Interactive Power BI dashboard design
 KPI definition and trend/WoW analysis
 Translating raw transactional data into business insights
+
+
+dashboard credit card transaction report
+https://github.com/kc8249754-sudo/Credit_Card_Dashboard/commit/1d9ef8763213e6004953f02d0d4a0eb1abec9fa1
